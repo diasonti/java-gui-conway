@@ -1,1 +1,1 @@
-"# conway-game" 
+# conway-game
